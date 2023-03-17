@@ -1,0 +1,129 @@
+# Arquivos compilados por byte / otimizados / DLL
+__pycache__ /
+* .py [ cod ]
+* $py.class
+
+# Extensões C
+* .so
+
+# Distribuição / embalagem
+.Pitão
+construir /
+desenvolver-ovos /
+dist /
+downloads /
+ovos /
+.ovos /
+lib /
+lib64 /
+peças /
+sdist /
+var /
+rodas /
+pip-roda-metadados /
+compartilhar / rodas-python /
+* .egg-info /
+.instalado.cfg
+* .ovo
+MANIFESTO
+
+# PyInstaller
+#   Geralmente esses arquivos são escritos por um script python de um modelo
+#   antes que o PyInstaller construa o exe, para injetar data/outras informações nele.
+* .manifesto
+* .spec
+
+# Registros do instalador
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Relatórios de teste de unidade/cobertura
+htmlcov /
+.tox /
+.nox /
+.cobertura
+.cobertura. *
+.cache
+nariztests.xml
+cobertura.xml
+* .capa
+* .py,capa
+.hipótese /
+.pytest_cache /
+
+# Traduções
+* .mo
+* .pote
+
+# Coisas do Django:
+* .log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Material do frasco:
+instância /
+.webassets-cache
+
+# Material fragmentado:
+.scrapy
+
+# Documentação do Sphinx
+docs / _build /
+
+# PyBuilder
+alvo /
+
+# Notebook Jupyter
+.ipynb_checkpoints
+
+# IPython
+perfil_padrão /
+ipython_config.py
+
+#pyenv _
+.python-version
+
+# pipenv
+#    De acordo com pypa/pipenv#598, é recomendado incluir Pipfile.lock no controle de versão.
+#    No entanto, no caso de colaboração, se houver dependências ou dependências específicas da plataforma
+#    não tendo suporte multiplataforma, pipenv pode instalar dependências que não funcionam, ou não
+#    instale todas as dependências necessárias.
+# Pipfile.lock
+
+#PEP 582; usado por, por exemplo, github.com/David-OConnor/pyflow
+__pypackages__ /
+
+# Coisas de aipo
+horário de aipo
+celerybeat.pid
+
+# Arquivos analisados ​​pelo SageMath
+* .sage.py
+
+# Ambientes
+.env
+.venv
+env /
+venv /
+ENV /
+env.bak /
+venv.bak /
+
+# Configurações do projeto Spyder
+.spyderproject
+.spyproject
+
+# Configurações do projeto de corda
+.ropeproject
+
+# documentação mkdocs
+/ local
+
+#mypy _
+.mypy_cache /
+.dmypy.json
+dmypy.json
+
+# verificador de tipo de pira
+.pira /
